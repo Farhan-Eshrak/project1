@@ -54,10 +54,12 @@ background-position: right;
     border-left: 7px solid;
     border-image: linear-gradient(180deg , lightSalmon , tomato);
     border-image-slice: 1;
+    background-color: white;
 }
 
 #b2{
     border-left: 7px solid;
+    background-color: white;
     border-image: linear-gradient(180deg , blue , cyan);
     border-image-slice: 1;
 }
